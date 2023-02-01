@@ -5,7 +5,6 @@
 
 #### 📫 Follow links:
 [<img alt="VK" width="25px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png"/>](https://vk.com/id180684106) 
-<!-- [<img alt="Instagramm" width="25px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>](https://www.instagram.com/max.on.97) -->
 [<img alt="Telegram" width="25px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png"/>](https://t.me/max_on_97)
 [<img alt="Gmail" width="30px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/160px-Gmail_icon_%282020%29.svg.png"/>](mailto:maximmakar@gmail.com)
 
