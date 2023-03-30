@@ -8,6 +8,8 @@
 [<img alt="Telegram" width="25px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png"/>](https://t.me/max_on_97)
 [<img alt="Gmail" width="30px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/160px-Gmail_icon_%282020%29.svg.png"/>](mailto:maximmakar@gmail.com)
 
+##### В свободное время решаю задачки на "Codewars": 
+<img src="https://www.codewars.com/users/Maximilliar/badges/micro?theme=light"/>
 
 
 <!--- 
